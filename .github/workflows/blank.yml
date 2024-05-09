@@ -6,11 +6,11 @@ on:
       ROM_URL:
         description: 'ROM_URL'
         required: true
-        default: 'https://bigota.d.miui.com/22.1.11/miui_ARESPRE_22.1.11_8a185991de_12.0.zip'
+        default: 'https://sourceforge.net/projects/project-elixir/files/fourteen/veux/ProjectElixir_4.2_veux-14.0-20240429-0732-OFFICIAL.zip'
       ZIP_NAME:
         description: 'ZIP_NAME'
         required: true
-        default: 'miui_ARESPRE_22.1.11_8a185991de_12.0.zip'
+        default: 'ProjectElixir_4.2_veux-14.0-20240429-0732-OFFICIAL.zip'
       REPACK_NAME:
         description: 'REPACK_NAME'
         required: true
