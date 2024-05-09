@@ -6,7 +6,7 @@ on:
       ROM_URL:
         description: 'ROM_URL'
         required: true
-        default: 'https://sourceforge.net/projects/project-elixir/files/fourteen/veux/ProjectElixir_4.2_veux-14.0-20240429-0732-OFFICIAL.zip'
+        default: 'https://downloads.sourceforge.net/project/project-elixir/fourteen/veux/ProjectElixir_4.2_veux-14.0-20240429-0732-OFFICIAL.zip?ts=gAAAAABmPH4_Ih5poCJu9DS7B6SFGoIMukJRP-9Ei1Qz6o1wMBl7PT4dM-a4-FHMq0xDVA4tVG7_t99Nut0gRMEYIoQ3FUt1aA%3D%3D&use_mirror=liquidtelecom&r='
       ZIP_NAME:
         description: 'ZIP_NAME'
         required: true
